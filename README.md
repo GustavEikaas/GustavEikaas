@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! I'm a passionate software developer who spends t
 
 - **Neovim Plugins:** As a Vim enthusiast (yes, I'm one of those!), I'm constantly tinkering with Neovim to streamline my workflow and enhance my coding experience. You'll find a collection of plugins here that I've crafted to make Neovim even more powerful.
   
-- **Side Projects:** Beyond my professional work, I love to experiment with new ideas and technologies. From web applications to machine learning experiments, you'll find a variety of side projects that showcase my curiosity and passion for learning.
+- **Side Projects:** Beyond my professional work, I love to experiment with new ideas and technologies. You'll find a variety of side projects that showcase my curiosity and passion for learning.
 
 ### Let's Connect!
 
