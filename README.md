@@ -20,8 +20,6 @@ Happy coding! ✨
 
 --- 
 
-Feel free to customize it to better suit your style and preferences!
-
 ## Stats
 
 <p align="left"> 
