@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! I'm a passionate software developer who spends t
 
 - **Neovim Plugins:** As a Vim enthusiast (yes, I'm one of those!), I'm constantly tinkering with Neovim to streamline my workflow and enhance my coding experience. You'll find a collection of plugins here that I've crafted to make Neovim even more powerful.
   
-- **Side Projects:** Beyond my professional work, I love to experiment with new ideas and technologies. You'll find a variety of side projects that showcase my curiosity and passion for learning.
+- **Side Projects:** ~Beyond my professional work, I love to experiment with new ideas and technologies. You'll find a variety of side projects that showcase my curiosity and passion for learning.~ Let's be honest, it's mostly neovim stuff
 
 ### Let's Connect!
 
@@ -40,4 +40,5 @@ Happy coding! ✨
     <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavEikaas&theme=darcula" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavEikaas&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true" />
 </p>
+
 
